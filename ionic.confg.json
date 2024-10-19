@@ -1,0 +1,7 @@
+{
+    "name": "senacfilmes",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}

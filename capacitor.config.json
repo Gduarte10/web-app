@@ -1,0 +1,9 @@
+{
+  "appID": "io.ionic.senacfilmes",
+  "appName": "senacfilmes",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "condove": {},
+  "appId": "com.example.app"
+}
